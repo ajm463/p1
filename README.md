@@ -1,6 +1,8 @@
+### Aurora Junco 3ºB GITT+BA
+
 # Práctica 1
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+En esta práctica hemos trabajado con un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## ¿Como probar en la nube?
 
